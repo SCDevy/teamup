@@ -1,0 +1,14 @@
+/* Open Sans */
+@font-face {
+font-family: 'Open Sans';
+src: url('../type/opensans/OpenSans-Regular.ttf');
+src: url('../type/opensans/OpenSans-Regular.ttf') format('truetype');
+font-weight: normal;
+font-style: normal; }
+
+@font-face {
+font-family: 'Open Sans Light';
+src: url('../type/opensans/OpenSans-Light.ttf');
+src: url('../type/opensans/OpenSans-Light.ttf') format('truetype');
+font-weight: normal;
+font-style: normal; }
